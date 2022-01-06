@@ -29,8 +29,9 @@ p{
     padding: 40px;
     
 }
-.one img{
-    width: 50%
+.one-1 img{
+    width: 50%;
+    height: 100%;
 
 }
 .two{
@@ -39,10 +40,23 @@ border-left-width: 5px;
     border-left-color: purple;
     
 }
+.button{
+    text-align: center;
+    text-decoration: thistle;
+    font-size: 20px;
+    background-color: tomato;
+    border: 50px;
+    padding:  20px;
+    border-radius: 5px;
+    width: 10%;
+     
+}
 .mission{
     background-image: url(images/shapes/shape-6.png);
     background-repeat: no-repeat;
-    width: 30%;
+    background-size: 100%;
+    width: 20%;
+    margin-left: 40px;
     margin-right: 30px;margin-bottom: 50px;
     border-radius: 15px;
     
@@ -50,8 +64,9 @@ border-left-width: 5px;
 .vission{
     background-image: url(images/shapes/shape-5.png);
     background-repeat: no-repeat;
-    width: 30%;
-    padding-left: 10px;
+    background-size: 100%;
+    width: 20%;
+    padding-left: 40px;
     margin-right: 30px;
     margin-bottom: 50px;
     border-radius: 15px;
@@ -60,8 +75,9 @@ border-left-width: 5px;
 .goal{
     background-image: url(images/shapes/shape-8.png);
     background-repeat: no-repeat;
-    width: 30%;
-    padding-left: 10px;
+    background-size: 100%;
+    width: 20%;
+    padding-left: 40px;
     padding-right: 10px;
     margin-bottom: 50px;
     border-radius: 15px;
@@ -85,5 +101,8 @@ border-left-width: 5px;
     background-size: 12%;
 }
 
+img{
+    height: 150px;
+    width: 30%;
 }
 
