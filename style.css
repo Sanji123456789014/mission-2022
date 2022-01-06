@@ -1,0 +1,76 @@
+h1{
+    font-family: 'Dancing Script', cursive;
+font-family: 'Lora', serif;
+font-family: 'The Nautigal', cursive
+font-size: 150px;
+padding: 40px,20px;
+}
+span{
+    color: crimson;
+}
+#scroll{
+    font-size: 20px;
+}
+section{
+    display: flex;
+    padding: 40px;
+    margin-left: 40px;
+}
+.mission-1{
+    text-align: center;
+}
+p{
+    font-size: 20px;
+}
+.one{ 
+    width: 50%
+
+    
+}
+.one img{
+    width: 50%
+
+}
+.two{
+border-left-width: 5px;
+    border-left-style: solid;
+    border-left-color: purple;
+    
+}
+.mission{
+    background-image: url(images/shapes/shape-6.png);
+    background-repeat: no-repeat;
+    width: 30%;
+    margin-right: 30px;margin-bottom: 50px;
+    border-radius: 15px;
+    
+}
+.vission{
+    background-image: url(images/shapes/shape-5.png);
+    background-repeat: no-repeat;
+    width: 30%;
+    padding-left: 10px;
+    margin-right: 30px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+
+}
+.goal{
+    background-image: url(images/shapes/shape-8.png);
+    background-repeat: no-repeat;
+    width: 30%;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-bottom: 50px;
+    border-radius: 15px;
+}
+.end-1{
+    text-align: center;
+    background-color: tomato;
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+.end-1{
+
+}
+
